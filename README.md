@@ -14,7 +14,9 @@ ios 常用断点记录
 ```
 
 > reveal UI调试神器的LLDB配置。
+
 <img width="476" alt="image" src="https://github.com/kentSoHandsome/ios_debug/assets/152961018/22aca9c4-90b8-4ea4-8513-b5786c7cbe4f">
+
 > 符号是`UIApplicationMain`,然后配置debugger 命令`reveal load --autostart`
 
 
